@@ -1,3 +1,10 @@
+dataset/
+reference/
+venv/
+subtracted/
+fft/
+sift/
+test/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
