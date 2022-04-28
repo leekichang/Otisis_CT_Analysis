@@ -5,6 +5,14 @@ subtracted/
 fft/
 sift/
 test/
+bilateral/
+bilateral_filtered/
+bilateral_hpf/
+crop_fliped/
+crop_fliped_filtered/
+ideal_hpf/
+tsne/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
